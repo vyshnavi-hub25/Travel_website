@@ -1,18 +1,18 @@
-# 🌍 SkyTrail Voyages - Travel Website Project
+SkyTrail Voyages - Travel Website Project
 
-## 📌 Project Overview
+ Project Overview
 SkyTrail Voyages is a simple travel website built using HTML and CSS.  
 It helps users explore travel destinations and packages like Goa, Kerala, Kashmir, and Manali.
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - HTML5
 - CSS3
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 SkyTrail Voyages/
 │
 ├── index.html (Home Page)
@@ -32,7 +32,7 @@ SkyTrail Voyages/
 
 ---
 
-## ✨ Features
+ Features
 - Simple and clean UI design
 - Navigation bar for all pages
 - Travel packages section
@@ -42,7 +42,7 @@ SkyTrail Voyages/
 
 ---
 
-## 🎯 Learning Outcomes
+ Learning Outcomes
 - Learned HTML page structure
 - Learned CSS styling and layout
 - Learned how to create multi-page website
@@ -50,17 +50,17 @@ SkyTrail Voyages/
 
 ---
 
-## 🚀 How to Run the Project
+ How to Run the Project
 1. Download the project folder
 2. Open `index.html` in any browser
 3. Navigate through pages using menu
 
 ---
 
-## 👨‍💻 Author
+Author
 Created as a student project for learning web development.
 
 ---
 
-## 📌 Note
+ Note
 This is a static website (no backend/database).
