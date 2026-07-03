@@ -60,7 +60,7 @@ SkyTrail Voyages/
 Author
 Created as a student project for learning web development.
 
----
+--
 
  Note
 This is a static website (no backend/database).
